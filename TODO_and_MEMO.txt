@@ -1,0 +1,21 @@
+
+
+1. 調整UI
+  UI framework: daisyUI
+  https://daisyui.com/
+
+2. 重寫原本在 https://gefanxe.github.io/ 上的東西
+
+
+
+MEMO:
+  ISO 639-1	中文沒有分簡中繁中, 一律都是 zh ...
+
+  UnoCSS 在 vscode 的提示沒出來, 在 settings.json 加入
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "on",
+      "strings": "on"
+    }
+  
+  
