@@ -18,4 +18,5 @@ MEMO:
       "strings": "on"
     }
   
-  
+  commit message lint 參考
+    https://github.com/conventional-changelog/commitlint/#what-is-commitlint
