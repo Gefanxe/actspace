@@ -46,6 +46,7 @@
     "@vitest/coverage-v8": "^0.34.3",
     "@vue/compiler-dom": "^3.3.4",
     "@vue/test-utils": "^2.4.1",
+    "eslint": "^8.49.0",
     "husky": "^8.0.3",
     "jsdom": "^22.1.0",
     "lint-staged": "^14.0.1",
